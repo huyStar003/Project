@@ -1,0 +1,15 @@
+<svg id="logo5" width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                    <defs>
+                        <linearGradient id="grad5a" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#6366F1;stop-opacity:1"/>
+                            <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1"/>
+                        </linearGradient>
+                        <linearGradient id="grad5b" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" style="stop-color:#EC4899;stop-opacity:1"/>
+                            <stop offset="100%" style="stop-color:#F472B6;stop-opacity:1"/>
+                        </linearGradient>
+                    </defs>
+                    <circle cx="100" cy="100" r="95" fill="white"/>
+                    <text x="30" y="135" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="url(#grad5a)">A</text>
+                    <text x="90" y="135" font-family="Arial Black, sans-serif" font-size="100" font-weight="900" fill="url(#grad5b)">H</text>
+                </svg>

@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "happy-green-crackers",
+    "slug": "snack-a178ac31-ff09-48ca-b3f3-d60899e9e63a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nguyenducan.snacka178ac31ff0948cab3f3d60899e9e63a",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.nguyenducan.snacka178ac31ff0948cab3f3d60899e9e63a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "47cc9f90-e526-4f44-a9bf-d466b13bec86"
+      }
+    }
+  }
+}
