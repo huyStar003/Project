@@ -24,11 +24,11 @@ class Config:
     FIREBASE_COLLECTION = "product_counts"
     
     # YOLO Model
-    MODEL_PATH = "D:/DO_AN_TN/App/Graduation-Project-master/Graduation-Project-master/best .pt"
+    MODEL_PATH = "D:/DO_AN_TN/App/Graduation-Project-master/Graduation-Project-master/best.pt"
     CONFIDENCE_THRESHOLD = 0.5
     
     # Camera
-    CAMERA_INDEX = 1  # Thay đổi thành 0 nếu webcam mặc định
+    CAMERA_INDEX = 0  # Thay đổi thành 0 nếu webcam mặc định
     CAMERA_WIDTH = 1280  # Resolution
     CAMERA_HEIGHT = 720
     
